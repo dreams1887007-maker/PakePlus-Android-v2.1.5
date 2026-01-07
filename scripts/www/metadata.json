@@ -1,0 +1,8 @@
+{
+  "name": "Dream - 智能记账",
+  "description": "Dream 是一款由 Gemini AI 驱动的智能记账应用。支持收据扫描、自动分类、预算管理以及个人财务顾问对话。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
